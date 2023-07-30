@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Demity6" target="blank"><img src="https://img.shields.io/twitter/follow/dem1ty?logo=twitter&style=for-the-badge" alt="Demity6" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
